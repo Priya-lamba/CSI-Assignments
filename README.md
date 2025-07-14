@@ -91,9 +91,9 @@ Jupyter Notebook, VS Code
 
 ## 🙌 Acknowledgements
 
-CSI Internship Coordinators
-Kaggle contributors
-HuggingFace Open Source Community
+* CSI Internship Coordinators
+* Kaggle contributors
+* HuggingFace Open Source Community
 
 
 
