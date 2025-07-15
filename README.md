@@ -26,6 +26,7 @@ This  contains simple Python programs to print different types of triangle patte
 2. 🔼 **Upper Triangular Pattern**
 3. 🔺 **Pyramid (Center-Aligned) Pattern**
 
+---
 
 ## Assignment_3 : Data Visualization
 
@@ -34,6 +35,8 @@ This  contains simple Python programs to print different types of triangle patte
 * Understand distribution of passengers
 * Survival analysis by age,sex,class
 * Used: matplot,seaborn,pandas
+  
+---
 
 ## Assignment_4 : Exploratory Data Analysis (EDA)
 
@@ -45,6 +48,8 @@ Deep analysis to convert trends.patterns and outlines.
 * Missing value treatment
 * Correlation matrix
 
+---
+
 ## Assignment_5 : House Price Prediction
 
 Predict housing prices using regression models.
@@ -54,6 +59,8 @@ Predict housing prices using regression models.
 * Data preprocessing
 * Feature engineering
 * model trainig
+
+---
 
 ## Assignment_6 : Model Evaluation and Hyperparameter Tuning
 
@@ -65,6 +72,8 @@ Improve model performance using evaluation metrics and tuning.
 * Hyperparameter tuning:
   * GridSearchCV
   * RandomizedSearchCV
+
+ ---
  
 ## Assignment_7 : Deploying Machine Learning Models with Streamlit
 
@@ -78,6 +87,8 @@ Improve model performance using evaluation metrics and tuning.
 
   ### 💻 Diabetes Prediction App(Streamlit) :
   <img width="646" height="795" alt="diabetes_app" src="https://github.com/user-attachments/assets/3b83c455-f740-4f61-8c0e-c88be65a3b86" />
+
+---
 
 ## Assignment_8 : RAG Q&A chatbot
 Implement a document-based chatbot using RAG (Retrieval Augmented Generation).
@@ -105,5 +116,5 @@ Jupyter Notebook, VS Code
 * Kaggle contributors
 * HuggingFace Open Source Community
 
-
+---
 
