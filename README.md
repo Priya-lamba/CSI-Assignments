@@ -16,6 +16,16 @@ implement a linked list using OOP concepts.
 <img width="543" height="209" alt="Linked_List" src="https://github.com/user-attachments/assets/ff3ae04c-2e4c-448f-97e5-89d7ea845bfe" />
 
 ---
+## Assignment_2 :  Triangle Pattern Printing 
+
+This  contains simple Python programs to print different types of triangle patterns using the `*` character.
+
+### 📌 Patterns Covered
+
+1. 🔽 **Lower Triangular Pattern**
+2. 🔼 **Upper Triangular Pattern**
+3. 🔺 **Pyramid (Center-Aligned) Pattern**
+
 
 ## Assignment_3 : Data Visualization
 
